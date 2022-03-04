@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksyj2006)](https://solved.ac/ksyj2006/)
-github-readme-stats.vercel.app/api/top-langs/?username={Jaeuk1211}&langs_count=8
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeuk1211)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeuk1211&show_icons=true&theme=radical)
