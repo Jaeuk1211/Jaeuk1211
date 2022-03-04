@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeuk1211)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksyj2006)](https://solved.ac/ksyj2006/)
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
