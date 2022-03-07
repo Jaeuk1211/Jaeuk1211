@@ -1,5 +1,18 @@
 ### Hi there 👋  This is Jaeuk Kim (Jack)
 
+🎓 Study :
+
+ - Gachon Univ. Dept. of SW (17.03 ~ 23.02)
+
+
+👨🏻‍💻 External Activity :
+
+ - VIP (Gachon Univ. Venture club) ( 17.03 ~ 17.07)
+ - Hypork Young Creator (21.06 ~ 21.08)
+ - CJ UNIT 5th (21.07 ~ 21.12)
+ - Dalkkum Mentor (21.07 ~ )
+
+
 💻 Experiences :
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
