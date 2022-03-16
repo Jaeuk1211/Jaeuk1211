@@ -5,12 +5,14 @@
  - Gachon Univ. Dept. of SW (17.03 ~ 23.02)
 
 
-👨🏻‍💻 External Activity :
+👨🏻‍💻 Activity :
 
  - VIP (Gachon Univ. Venture club) ( 17.03 ~ 17.07)
  - Hypork Young Creator (21.06 ~ 21.08)
+ - Gachon Univ. Dept. of SW : JAVA Coding Clinic TA (21.07 ~ 21.07)
  - CJ UNIT 5th (21.07 ~ 21.12)
  - Dalkkum Mentor (21.07 ~ )
+ - Gachon Univ. Dept. of SW : 'Operating System' lecture TA (22.03 ~ 22.06)
 
 
 💻 Experiences :
