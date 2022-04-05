@@ -1,11 +1,13 @@
-### Hi there 👋  This is Jaeuk Kim (Jack)
+# Hi there 👋  This is Jaeuk Kim (Jack)
 
-🎓 Study :
+<a href="https://malachite-breath-060.notion.site/IT-1fa39e2a11224e27b6e380b94bb8bafc"> <img src="https://img.shields.io/badge/Notion-000000?style=flat square&logo=Notion&logoColor=white&link=https://www.notion.so/b2d3658299b64e6b901c7bd0c359f902" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
+
+### 🎓 Study :
 
  - Gachon Univ. Dept. of SW (17.03 ~ 23.02)
 
 
-👨🏻‍💻 Activity :
+### 👨🏻‍💻 Activity :
 
  - VIP (Gachon Univ. Venture club) (17.03 ~ 17.07)
  - Gachon Univ. Dept. of SW : JAVA Coding Clinic TA (21.07 ~ 21.07)
@@ -14,7 +16,7 @@
  - Gachon Univ. Dept. of SW : 'Operating System' lecture TA (22.03 ~ 22.06)
 
 
-💻 Experiences :
+### 💻 Experiences :
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+#
 
 <!--
 **Jaeuk1211/Jaeuk1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
