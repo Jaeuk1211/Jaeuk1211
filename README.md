@@ -1,6 +1,6 @@
 # Hi there 👋  This is Jaeuk Kim (Jack)
 
-<a href="https://malachite-breath-060.notion.site/IT-1fa39e2a11224e27b6e380b94bb8bafc"> <img src="https://img.shields.io/badge/Notion-000000?style=flat square&logo=Notion&logoColor=white&link=https://www.notion.so/b2d3658299b64e6b901c7bd0c359f902" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
+<a href="https://ukjae.notion.site/IT-1fa39e2a11224e27b6e380b94bb8bafc"> <img src="https://img.shields.io/badge/Notion-000000?style=flat square&logo=Notion&logoColor=white&link=https://www.notion.so/b2d3658299b64e6b901c7bd0c359f902" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 
 ### 🎓 Study :
 
