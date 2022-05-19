@@ -27,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#
+
 
 <!--
 **Jaeuk1211/Jaeuk1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
