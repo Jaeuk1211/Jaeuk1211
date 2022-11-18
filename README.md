@@ -5,6 +5,7 @@
 ### 🎓 Study :
 
  - Gachon Univ. Dept. of SW (17.03 ~ 23.02)
+ - International Mid Pac Hawaii (22.06 - 22.07)
 
 
 ### 👨🏻‍💻 Activity :
