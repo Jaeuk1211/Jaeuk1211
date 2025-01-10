@@ -6,16 +6,26 @@
 
  - Gachon Univ. Dept. of SW (17.03 ~ 23.02)
  - International Mid Pac Hawaii (22.06 - 22.07)
+   
+
+
+### 📖 Certificate
+
+- TOEIC Speaking AL (160) - 24.03
+- SQL Data Analysis Certificate - 23.12
+- Information Processing Engineer - 22.06
+- TOPCIT 400 - 21.12
+- ~~TOEIC 890 (LC 445, RC 445) - 22.01~~
+
 
 
 ### 👨🏻‍💻 Activity :
 
- - VIP (Gachon Univ. Venture club) (17.03 ~ 17.07)
- - Gachon Univ. Dept. of SW : JAVA Coding Clinic TA (21.07 ~ 21.07)
- - Hypork Young Creator (21.07 ~ 21.08)
- - CJ UNIT 5th (21.08 ~ 21.12)
  - Gachon Univ. Dept. of SW : 'Operating System' lecture TA (22.03 ~ 22.06)
-
+ - CJ UNIT 5th (21.08 ~ 21.12)
+ - Hypork Young Creator (21.07 ~ 21.08)
+ - Gachon Univ. Dept. of SW : JAVA Coding Clinic TA (21.07 ~ 21.07)
+ - VIP (Gachon Univ. Venture club) (17.03 ~ 17.07)
 
 
 
