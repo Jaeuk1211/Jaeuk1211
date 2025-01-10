@@ -9,7 +9,7 @@
    
 
 
-### 📖 Certificate
+### 📖 Certificate : 
 
 - TOEIC Speaking AL (160) - 24.03
 - SQL Data Analysis Certificate - 23.12
