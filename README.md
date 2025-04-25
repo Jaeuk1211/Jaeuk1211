@@ -1,8 +1,17 @@
 # Hi there 👋  This is Jaeuk Kim (Jack)
 
-<a href="https://ukjae.notion.site/IT-1fa39e2a11224e27b6e380b94bb8bafc"> <img src="https://img.icons8.com/color/48/notion--v1.png" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-**Notion Portfolio**
-</a>
+<p align="left">
+  <a href="https://ukjae.notion.site/IT-1fa39e2a11224e27b6e380b94bb8bafc" target="_blank">
+    <img src="https://img.icons8.com/color/28/notion--v1.png" style="vertical-align: middle;"/>
+    <span style="font-size: 16px; font-weight: 600; vertical-align: middle; margin-left: 6px;">Notion Portfolio</span>
+  </a>
+</p>
+
+<br>
+
+### 💼 Work :
+
+ - KYOBO DTS (Digital Technology Service) (22.11 ~)
 
 ### 🎓 Study :
 
@@ -43,7 +52,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
+<br>
+<br>
 
 <!--
 **Jaeuk1211/Jaeuk1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
