@@ -11,12 +11,12 @@
 
 ### 💼 Work :
 
- - KYOBO DTS (Digital Technology Service) (22.11 ~)
+ - KYOBO DTS (Digital Technology Service) [22.11 ~]
 
 ### 🎓 Study :
 
- - Gachon Univ. Dept. of SW (17.03 ~ 23.02)
- - International Mid Pac Hawaii (22.06 - 22.07)
+ - International Short-Term Training (International Mid Pac Hawaii) [22.06 - 22.07]
+ - Bachelor of Engineering in Software (Gachon University) [17.03 ~ 23.02]
    
 
 
@@ -32,11 +32,11 @@
 
 ### 👨🏻‍💻 Activity :
 
- - Gachon Univ. Dept. of SW : 'Operating System' lecture TA (22.03 ~ 22.06)
- - CJ UNIT 5th (21.08 ~ 21.12)
- - Hypork Young Creator (21.07 ~ 21.08)
- - Gachon Univ. Dept. of SW : JAVA Coding Clinic TA (21.07 ~ 21.07)
- - VIP (Gachon Univ. Venture club) (17.03 ~ 17.07)
+ - Gachon Univ. Dept. of SW : 'Operating System' lecture TA [22.03 ~ 22.06]
+ - CJ UNIT [21.08 ~ 21.12]
+ - Hypork Young Creator [21.07 ~ 21.08]
+ - Gachon Univ. Dept. of SW : JAVA Coding Clinic TA [21.07 ~ 21.07]
+ - VIP (Gachon Univ. Venture club) [17.03 ~ 17.07]
 
 
 
@@ -70,9 +70,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeuk1211&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeuk1211&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksyj2006)](https://solved.ac/ksyj2006/)
 
 
