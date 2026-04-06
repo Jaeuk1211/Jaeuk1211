@@ -15,17 +15,18 @@
 
 ### 🎓 Study :
 
+ - Master of Business Administration(MBA) (Korea University) [26.03 - 28.02]
  - International Short-Term Training (International Mid Pac Hawaii) [22.06 - 22.07]
- - Bachelor of Engineering in Software (Gachon University) [17.03 ~ 23.02]
+ - Bachelor of Science(B.S) in Software (Gachon University) [17.03 ~ 23.02]
    
 
 
 ### 📖 Certificate : 
 
-- TOEIC Speaking AL (160) - 24.03
 - SQL Data Analysis Certificate - 23.12
 - Information Processing Engineer - 22.06
 - TOPCIT 400 - 21.12
+- ~~TOEIC Speaking AL (160) - 24.03~~
 - ~~TOEIC 890 (LC 445, RC 445) - 22.01~~
 
 
